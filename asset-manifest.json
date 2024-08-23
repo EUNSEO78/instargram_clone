@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instargram_clone/static/css/main.c2b49515.css",
+    "main.js": "/instargram_clone/static/js/main.659c2434.js",
+    "index.html": "/instargram_clone/index.html",
+    "main.c2b49515.css.map": "/instargram_clone/static/css/main.c2b49515.css.map",
+    "main.659c2434.js.map": "/instargram_clone/static/js/main.659c2434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b49515.css",
+    "static/js/main.659c2434.js"
+  ]
+}
